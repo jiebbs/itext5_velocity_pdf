@@ -1,0 +1,7 @@
+<div>
+    #foreach($equation in $equations)
+    <div>
+        $equation
+    </div>
+    #end
+</div>
